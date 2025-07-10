@@ -1,1 +1,1 @@
-# 2_Library_Borrow_System_GQT
+# 2_Library_Borrow_System_GQT_Corejava
